@@ -1,0 +1,3 @@
+git add .github/workflows/daily_stock_news.yml
+git commit -m "Add daily stock news cron job"
+git push origin main  # or whichever branch you use
